@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" src="http://www.greenplacepark.com/" >
+<img align="right" src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/" >
 
 - 🌱 I’m currently learning **FULL STACK**
 
