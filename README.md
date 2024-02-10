@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlubmpjcGR0Zm9oZnc1NGF2b3Jha3M3NjRiaHNpOXh4anB4MnJraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
 - 🌱 I’m currently learning **FULL STACK**
 
