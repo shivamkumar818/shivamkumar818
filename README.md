@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" src="http://www.reddit.com/r/InterestingGifs/comments/2gfst1/real_life_footage_of_a_programmer/">
+<img align="right" src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">
 
 - 🌱 I’m currently learning **FULL STACK**
 
