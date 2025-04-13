@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&vCenter=true&center=true&font=Fira+Code&pause=700&color=FF6A00&width=700&lines=👨‍💻+Full+Stack+Developer;🔭+Currently+working+on+MERN+stack;🌱+Currently+learning+DSA" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="370" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWYxamN6bmFzemtlaWE2YzVxY2pyajMwMjhqeHdqa3ZvdTQxeG16aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWYxamN6bmFzemtlaWE2YzVxY2pyajMwMjhqeHdqa3ZvdTQxeG16aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 <br><br>
 
 ### About Me
