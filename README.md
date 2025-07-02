@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 🎓 Computer Science Student at <a href="https://srmap.edu.in/">SRM University AP</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 🎓 Computer Science Student at <a href="https://srmap.edu.in/">SRM University, AP</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 - 💻 Passionate about Web Development — currently leveling up with the MERN Stack (MongoDB, Express.js, React, Node.js)
 
